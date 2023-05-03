@@ -1,5 +1,6 @@
 # Horiseon_Project!
-(https://user-images.githubusercontent.com/129198313/235838013-47aa2f76-406b-4af9-8931-4ea02dc61ffc.png)
+![Screenshot 2023-05-03 002040](https://user-images.githubusercontent.com/129198313/235839806-42eb5591-dad7-4403-92f7-1594f5fb996b.png)
+
 
 When looking at the website created the top left shows the name of the company Horiseon. It is in nice bold letters as shown in the image. The bold letters draws the attention to the title of the page and tells the readers the name of the company. 
 
