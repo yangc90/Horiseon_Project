@@ -14,7 +14,7 @@ Third screenshot shows image of each section of the webpage. The big white bold 
 
 ![Screenshot 2023-05-03 002215](https://user-images.githubusercontent.com/129198313/235839182-cf9813b2-7535-42a3-8bac-cedb559f3401.png)
 
-Fourth screenshot shows an image of the benefits page. What benefits this company provides. It is diplayed in a black font that is easy to read and text is simple but enough for readers to understand. 
+Fourth screenshot shows an image of the benefits page. What benefits this company provides. It is displayed in a white font that is easy to read and text is simple but enough for readers to understand. 
 
 ![Screenshot 2023-05-03 002231](https://user-images.githubusercontent.com/129198313/235839309-68575d7b-8c78-41bd-9294-a1a666845eda.png)
 
